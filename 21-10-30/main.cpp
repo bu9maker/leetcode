@@ -29,6 +29,6 @@ public:
 int main()
 {
     Solution s;
-    s.singleNumber({1,2,3,4});
+    s.singleNumber({1,2,2,3,4});
     return 0;
 }
